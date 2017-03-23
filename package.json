@@ -1,0 +1,14 @@
+{
+  "name": "blessing",
+  "version": "1.0.0",
+  "description": "Blessing allows you to ask the NodeJS god for blessings for your app, and keeps track of them (cf HTTP counter).",
+  "main": "blessing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jo Colina",
+  "license": "ISC",
+  "dependencies": {
+    "fishingrod": "^3.5.0"
+  }
+}
